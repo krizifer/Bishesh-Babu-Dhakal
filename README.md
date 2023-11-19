@@ -11,7 +11,7 @@ Let's connect! 🌟
 
 
 ## Stats📈
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krizifer&size_weight=0.5&count_weight=0.5) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krizifer&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krizifer&size_weight=0.5&count_weight=0.5) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krizifer&show_icons=true&theme=dark)  ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krizifer) 
 
 Technologies 💡
 --------------------------------------------------------------------------------------------------------------------
@@ -23,8 +23,7 @@ Technologies 💡
 ## Tools 🔧
 
 ![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![image]( https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white 
-)
-
+)  ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
 
 
 
