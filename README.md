@@ -10,18 +10,22 @@ I'm Bishesh Babu Dhakal, a passionate developer from Nepal. Here are a few thing
 Let's connect! 🌟
 
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=krizifer&show_icons=true&theme=radical)
+## Stats📈
+<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=#your-username&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="#your-username" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=#your-username&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="#your-username" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=#your-username&theme=highcontrast&hide_border=true" alt="#your-username" />
+</p>
 
 Technologies 💡
 --------------------------------------------------------------------------------------------------------------------
 
 Languages ✏️
 
-![image](https://github.com/krizifer/README.md/assets/59119438/5032290d-4593-4c3c-a693-351dcca53c10)   ![image](https://github.com/krizifer/README.md/assets/59119438/672e9b92-857a-45d8-9c42-c27971a41432)  ![image](https://github.com/krizifer/README.md/assets/59119438/8aca67c3-8f51-4dbd-8a73-c0bc82e8c41a)  ![image](https://github.com/krizifer/README.md/assets/59119438/97fcd1f7-5f33-4585-93d3-b4b27ddedc1a) 
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white 	https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white 
 
 Tools 🔧
-
-![image](https://github.com/krizifer/README.md/assets/59119438/1d045665-bf13-4bda-b3f3-768280f55a25)  ![image](https://github.com/krizifer/README.md/assets/59119438/b081b6d5-6e4b-4a51-be3e-ca99f988a507)  ![image](https://github.com/krizifer/README.md/assets/59119438/032c3f74-1d53-4e9f-a588-928d162bd4a4)  ![image](https://github.com/krizifer/README.md/assets/59119438/94282f9d-bd7d-4f7d-b57c-d93591996f75)  
+https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white 
 
 
 
