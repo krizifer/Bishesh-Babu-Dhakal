@@ -1,5 +1,5 @@
 Hello World!!
-I'm Bishesh Babu Dhakal, a passionate developer from Nepal. Here are a few things I love to work with:
+I'm Bishesh Babu Dhakal aka BabuCode, a passionate developer from Nepal. Here are a few things I love to work with:
 
 - 👨‍💻 Front-end development using HTML, CSS, JavaScript
 - 🚀 React.js for building awesome user interfaces
